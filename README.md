@@ -1,16 +1,18 @@
 # flutter_attendance_checker
 
-A new Flutter project.
+근퇴 관리 어플
 
-## Getting Started
+## 개요
 
-This project is a starting point for a Flutter application.
+google_maps_flutter 플러그인 학습
+geolocator 플러그인 학습
 
-A few resources to get you started if this is your first Flutter project:
+## 노트
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Google Maps API 사용하기
+  - 마커 표시하기
+  - 도형 그리기
+  - 현재 위치 표시, 위도 경도 구하기
+  - 거리 계산하기
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## error
