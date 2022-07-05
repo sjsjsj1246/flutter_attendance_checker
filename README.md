@@ -40,5 +40,3 @@ geolocator 플러그인 학습
   - 거리 계산하기
 
 ## error
-
-AIzaSyB1h8HvU-\_p5rg4ZPNafUQf5434HODYsIo
